@@ -12,4 +12,4 @@
 Automotive hobby turned into lucrative side business. To further develop customer/client outreach I had decided to learn and implement a website for my small business. Though, I already knew some fundementals of web design, I had to extend my knowledge of domains, webhosting, servers, and web storage for that matter. 
 
 Here is what I managed to produce as my first real-world product of web development. 
-Site viewable [here](https://codepen.io/BrianRGZ/full/Ljojpv")
+Site viewable [here](https://codepen.io/BrianRGZ/full/Ljojpv)
